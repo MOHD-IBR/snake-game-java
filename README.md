@@ -12,6 +12,7 @@ Open a terminal in the project root directory.
 Compile the Java files:
 
 _ _javac -d out src/com/zetcode/*.java_ _
+
 Run the game:
 
 _ _java -cp out com.zetcode.Snake_ _ 
