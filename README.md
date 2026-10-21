@@ -1,5 +1,5 @@
 # snake-game-java
-A snake game developed using Java for my Object-Oriented Programming course.
+A classic snake game developed using Java for my Object-Oriented Programming course.
 
 **How to Run**
 
